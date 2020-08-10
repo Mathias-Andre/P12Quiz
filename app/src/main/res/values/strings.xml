@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Declaration Form</string>
+
+    <!-- TODO: Question 2: Write the codes in strings.xml to include the spinner items for country -->
+
+</resources>
